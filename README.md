@@ -1,3 +1,5 @@
+[![Jenny's github stats](https://github-readme-stats.vercel.app/api?username=Jen456)](https://github.com/Jen456/github-readme-stats)
+
 <div align="center">
     <img src="https://raw.githubusercontent.com/frappe/erpnext/develop/erpnext/public/images/erpnext-logo.png" height="128">
     <h2>ERPNext</h2>
